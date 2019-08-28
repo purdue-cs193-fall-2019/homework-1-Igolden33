@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+# Isaac Golden, First CS 193 HW 
+
+- My Favorite things about CS193
+- Grades are simple and come mainly from participation
+- Easy intro to things we need to know in CS as Purdue
+- Teaches us general things that we should know about Computer Science that could be applied to any job or class we take
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
